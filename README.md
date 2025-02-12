@@ -6,4 +6,4 @@ Competitive Programming (Data Structures & Algorithms)
 
 Data Science
 
-Machine learning & Artificial Intelligence
+Machine Learning & Artificial Intelligence
